@@ -1,4 +1,3 @@
-![sales report of AtliQ hardware - Excel 07-05-2024 09_30_32](https://github.com/SATHWIKSATHU05/Excel_Project_1---Sales_and_Finance_Report/assets/169009977/4ae7ac63-6856-41dc-b21b-41001523b7d2)
 🎯 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞: -
 
 AtliQ is a company that sells hardware like PCs, Mouse, Printers, etc. to different customers. They have 2 types of customers one is Physical stores that are known as Brick & Mortar like Croma and Best Buy and the second is E-commerce like Amazon and Flipkart. The AtliQ Business users have been given files to build reports the data contains more than 1.5 million records, and have to build sales and financial reports of the company.
@@ -46,3 +45,9 @@ The introduction of 16 new products in 2021 showcased AQ's innovation, with the 
 Finance Knowledge
 A Profit and Loss (P&L) statement is a financial report that provides an overview of a company’s financial performance over a period of time, typically a month, quarter, or year.
 The Profit and loss (P&L) statement includes several metrics such as Net sales, cost of goods sold (COGS), Gross Margin and GM % etc, these metrics evaluate a company’s financial performance, profitability, and pricing tactics.
+
+
+
+
+
+![sales report of AtliQ hardware - Excel 07-05-2024 09_30_32](https://github.com/SATHWIKSATHU05/Excel_Project_1---Sales_and_Finance_Report/assets/169009977/4ae7ac63-6856-41dc-b21b-41001523b7d2)
