@@ -6,17 +6,17 @@ AtliQ is a company that sells hardware like PCs, Mouse, Printers, etc. to differ
 
 📈 𝐓𝐡𝐞 𝐑𝐞𝐩𝐨𝐫𝐭 𝐜𝐨𝐧𝐬𝐢𝐬𝐭𝐬 𝐨𝐟: -
 
-Sales Report
-Customer Performance Report
-Market Performance Report
-Division Level
-Top & Bottom 5 Products
-Top 5 countries
-Finance Report
-P&L yearly
-P&L Monthly
-P&L Market
-GM% Quartely
+Sales Report,
+Customer Performance Report,
+Market Performance Report,
+Division Level,
+Top & Bottom 5 Products,
+Top 5 countries,
+Finance Report,
+P&L yearly,
+P&L Monthly,
+P&L Market,
+GM% Quarterly.
 
 
 
